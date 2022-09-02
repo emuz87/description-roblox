@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "number-to-words": "^1.2.4"
+  },
+  "scripts":  {
+    "start": "node index"
+  },
+  "type": "module",
+  "engines": {
+    "node": "16.x"
+  }
+}
